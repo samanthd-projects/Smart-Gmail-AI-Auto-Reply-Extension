@@ -18,6 +18,7 @@ Get a free Gemini API key from https://ai.google.dev/gemini-api/docs
 Configure the backend with the following environment variables:
 
 GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=
+
 GEMINI_API_KEY=YOUR_API_KEY_HERE
 
 Run the Spring Boot backend using the terminal or IDE run option.
