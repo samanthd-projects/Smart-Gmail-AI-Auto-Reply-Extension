@@ -5,7 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/writer-sb/pom.xml" />
+        <option value="$PROJECT_DIR$/Screenshots/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Screenshots/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
