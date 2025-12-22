@@ -9,3 +9,9 @@ Developed a Chrome extension integrated with Gmail to generate context-aware ema
    ```bash
    npm install
    npm run dev
+
+Get a free Gemini API key from https://ai.google.dev/gemini-api/docs
+Configure the backend with the following environment variables:
+
+GEMINI_API_URL=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent
+GEMINI_API_KEY=YOUR_API_KEY_HERE
